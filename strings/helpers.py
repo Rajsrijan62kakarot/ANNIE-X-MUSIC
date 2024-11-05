@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_2 = """
 <b><u>ᴀᴜᴛʜ ᴜsᴇʀs :</b></u>
@@ -26,7 +26,7 @@ HELP_2 = """
 /unauth [ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_3 = """
 <u><b>ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
@@ -42,7 +42,7 @@ HELP_3 = """
 
 <b>ᴇxᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ</code>
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
 
@@ -52,7 +52,7 @@ HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u
 /whitelistchat [ᴄʜᴀᴛ ɪᴅ] : ᴡʜɪᴛᴇʟɪsᴛ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ.
 /blacklistedchat : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs.
 
-☆✧✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+☆✧✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_5 = """
 <u><b>ʙʟᴏᴄᴋ ᴜsᴇʀs:</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -310,7 +310,7 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
  
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_24 = """
 <b><u>Sᴇᴀʀᴄʜ :</b></u>
@@ -353,7 +353,7 @@ HELP_26 = """
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
 /qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_27 = """
 <b><u>ᴍᴀsᴛɪ♡︎ :</b></u>
@@ -399,7 +399,7 @@ HELP_29 = """
 /clear ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴛʜᴇ ɴᴏᴛᴇs.
 /clearall ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴀʟʟ ɴᴏᴛᴇs.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [🇯𝐀𝐑𝐕𝐈𝐒💗](https://t.me/JARVIS_V2)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [𝙆𝘼𝙆𝘼𝙍𝙊𝙏💗](https://t.me/Not_Kakarot)"""
 
 HELP_30 = """
 <b><u>ɢᴀᴍᴇs :</b></u>
