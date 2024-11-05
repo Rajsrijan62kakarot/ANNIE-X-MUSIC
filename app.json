@@ -1,7 +1,7 @@
 {
-    "name": "ANNIE X MUSIC",
-    "description": "ANNIE X MUSIC is a Telegram Music Player Bot built using Python, leveraging Pyrogram and Py-Tgcalls for seamless music streaming.",
-    "logo": "https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+    "name": "CARLA",
+    "description": "CARLA is a Telegram Music Player Bot built using Python, leveraging Pyrogram and Py-Tgcalls for seamless music streaming.",
+    "logo": "https://files.catbox.moe/khg05x.jpg",
     "keywords": [
         "python3",
         "telegram",
